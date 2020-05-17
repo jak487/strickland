@@ -6,23 +6,23 @@
 # URL settings 
 #
 # url is your gh-pages base, following the pattern: username.github.io
-url: https://uidaholib.github.io
+url: https://jak487.github.io
 # baseurl is your github repository's name prefixed with a /
-baseurl: /oral-history-as-data
+baseurl: /example_repository
 # repository is the github repository's full url
-repository: https://github.com/uidaholib/oral-history-as-data
+repository: https://github.com/jak487/example_repository
 
 
 ##########
 # Site settings
 #
 # title of site appears in banner
-title: Oral History (as) Data
+title: example title
 # tagline appears in banner
-tagline: analyze and publish coded oral history and qualitative interviews
+tagline: example tagline
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Lib-Static Oral History / Qualitative Interview Analysis Tool, Analyze and publish transcriptions with tagged csvs"
+description: "example description"
 
 
 ####### Leave the Below As Is ########
